@@ -14,10 +14,14 @@
 
 - React
 - TypeScript
-- TanStack Query
+- react-hook-form
+- zod
+- urql
+- vite
 
 #### バックエンド
 
 - Nest.js
 - GraphQL
 - postgresql or mysql
+- docker
